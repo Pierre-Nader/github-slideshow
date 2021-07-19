@@ -1,7 +1,6 @@
-
 ---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey yo my name is Pierre
 Use the left arrow to go back!
